@@ -86,7 +86,7 @@ nav .navbar{
   align-items: center;
 }
 .about-pic {
-  background-color: #ffa500;
+  background-color: yellow;
   padding-top: 10px;
   padding-right: 10px;
   padding-bottom: 10px;
@@ -95,7 +95,7 @@ nav .navbar{
 #about-us .content{
   padding: 65px 50px 85px;
   width: 100%;
-  background-color: #ffa500;
+  background-color: yellow;
   float:right;
   text-align: justify;
   overflow-x: hidden;

@@ -66,6 +66,15 @@ nav .navbar{
 .button{
   border-radius: 10px;
 }
+  .btn {
+    color: #3693ff;
+    text-decoration: none;
+    display: inline-flex;
+    padding: 1rem 2rem;
+    border: 1px solid #3693ff;
+    border-radius: 10px;
+    font-weight: bold;
+}
 .card-title{
   text-align: center;
   color: rgb(233, 10, 47);

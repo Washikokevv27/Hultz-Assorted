@@ -49,7 +49,7 @@ nav .navbar{
 .landing{
   background-image: url("../image/pexels-pixabay-315755.jpg");
   background-position: center center;
-  background-size: cover;
+  background-size: 90%;
   background-repeat: no-repeat;
   background-attachment:fixed;
   padding-bottom: 20px;
@@ -88,8 +88,8 @@ nav .navbar{
   font-weight: bolder;
 }
 .col-md-4{
-  border-radius: 10%;
-  padding: 10px;
+  border-radius: 5%;
+  padding: 5px;
 }
 #about-us{
   min-height: 10vh;
@@ -221,7 +221,7 @@ td,th{
     flex-direction: column;
   }
 }
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 667px){
   .section {
     padding-top: 30px;
 }
@@ -229,7 +229,7 @@ td,th{
     flex-direction: column;
 }
 #about-us .content {
-  padding: 20px 30px 40px;
+  padding: 5px 7px 10px;
 }
 .about-pic img{
   width: 94%;
